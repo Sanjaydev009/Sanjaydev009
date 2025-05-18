@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coder GIF" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coder GIF" />
 </p>
 
 ---
@@ -24,7 +24,7 @@
   <table width="100%">
     <tr>
       <td width="40%" align="center">
-        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDQzMmFtcGE2a2FicXR5bW85Zzd2ZzFocnBjZ29wOHlrZ3NuYmgwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" width="300" alt="Tech Animation GIF">
+        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDQzMmFtcGE2a2FicXR5bW85Zzd2ZzFocnBjZ29wOHlrZ3NuYmgwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" width="400" alt="Tech Animation GIF">
       </td>
       <td width="60%">
         <table width="100%" align="center">
