@@ -5,6 +5,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Web+Developer+%7C+Full+Stack+Learner;Tech+Enthusiast+%F0%9F%92%BB;Love+Coding+and+UI+Design+%F0%9F%92%8E" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coder GIF" />
+</p>
+
 ---
 
 ### 🌐 Connect with me
