@@ -20,76 +20,78 @@
 
 <h2 align="center">🚀 Tech Stack</h2>
 
-<table width="100%" align="center">
-  <tr>
-    <td align="center" width="20%">
-      <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5"/><br/>HTML5
-    </td>
-    <td align="center" width="20%">
-      <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/><br/>CSS3
-    </td>
-    <td align="center" width="20%">
-      <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/><br/>Bootstrap
-    </td>
-    <td align="center" width="20%">
-      <img src="https://img.icons8.com/color/48/tailwind_css.png" alt="Tailwind CSS"/><br/>Tailwind CSS
-    </td>
-    <td align="center" width="20%">
-      <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/><br/>JavaScript
-    </td>
-  </tr>
-</table>
-
-<table width="100%" align="center">
-  <tr>
-    <td align="center" width="20%">
-      <img src="https://img.icons8.com/ios-filled/50/php.png" alt="PHP"/><br/>PHP
-    </td>
-    <td align="center" width="20%">
-      <img src="https://img.icons8.com/color/48/python.png" alt="Python"/><br/>Python
-    </td>
-    <td align="center" width="20%">
-      <img src="https://img.icons8.com/officel/48/react.png" alt="React"/><br/>React
-    </td>
-    <td align="center" width="20%">
-      <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js"/><br/>Node.js
-    </td>
-    <td align="center" width="20%">
-      <img src="https://img.icons8.com/color/48/angularjs.png" alt="Angular"/><br/>Angular
-    </td>
-  </tr>
-</table>
-
-<table width="100%" align="center">
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/><br/>MySQL
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB"/><br/>MongoDB
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase"/><br/>Firebase
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"/><br/>VS Code
-    </td>
-  </tr>
-</table>
-
-<table width="100%" align="center">
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/48/android-studio--v3.png" alt="Android Studio"/><br/>Android Studio
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/48/pycharm.png" alt="PyCharm"/><br/>PyCharm
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/48/netbeans.png" alt="NetBeans"/><br/>NetBeans
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="40%" align="center">
+        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDQzMmFtcGE2a2FicXR5bW85Zzd2ZzFocnBjZ29wOHlrZ3NuYmgwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" width="300" alt="Tech Animation GIF">
+      </td>
+      <td width="60%">
+        <table width="100%" align="center">
+          <tr>
+            <td align="center" width="20%">
+              <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5"/><br/>HTML5
+            </td>
+            <td align="center" width="20%">
+              <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/><br/>CSS3
+            </td>
+            <td align="center" width="20%">
+              <img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap"/><br/>Bootstrap
+            </td>
+            <td align="center" width="20%">
+              <img src="https://img.icons8.com/color/48/tailwind_css.png" alt="Tailwind"/><br/>Tailwind
+            </td>
+            <td align="center" width="20%">
+              <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/><br/>JavaScript
+            </td>
+          </tr>
+          <tr>
+            <td align="center" width="20%">
+              <img src="https://img.icons8.com/ios-filled/50/php.png" alt="PHP"/><br/>PHP
+            </td>
+            <td align="center" width="20%">
+              <img src="https://img.icons8.com/color/48/python.png" alt="Python"/><br/>Python
+            </td>
+            <td align="center" width="20%">
+              <img src="https://img.icons8.com/officel/48/react.png" alt="React"/><br/>React
+            </td>
+            <td align="center" width="20%">
+              <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js"/><br/>Node.js
+            </td>
+            <td align="center" width="20%">
+              <img src="https://img.icons8.com/color/48/angularjs.png" alt="Angular"/><br/>Angular
+            </td>
+          </tr>
+          <tr>
+            <td align="center" width="20%">
+              <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/><br/>MySQL
+            </td>
+            <td align="center" width="20%">
+              <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB"/><br/>MongoDB
+            </td>
+            <td align="center" width="20%">
+              <img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase"/><br/>Firebase
+            </td>
+            <td align="center" width="20%">
+              <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"/><br/>VS Code
+            </td>
+            <td align="center" width="20%">
+              <img src="https://img.icons8.com/color/48/android-studio--v3.png" alt="Android Studio"/><br/>Android Studio
+            </td>
+          </tr>
+          <tr>
+            <td align="center" width="20%">
+              <img src="https://img.icons8.com/color/48/pycharm.png" alt="PyCharm"/><br/>PyCharm
+            </td>
+            <td align="center" width="20%">
+              <img src="https://img.icons8.com/color/48/netbeans.png" alt="NetBeans"/><br/>NetBeans
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ### 📈 GitHub Stats
 <p align="center">
