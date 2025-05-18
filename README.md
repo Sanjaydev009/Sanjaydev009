@@ -14,36 +14,78 @@
 
 ---
 
-### 🛠️ Tech Stack
+<h2 align="center">🚀 Tech Stack</h2>
 
-#### 💻 Programming Languages  
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+<table width="100%" align="center">
+  <tr>
+    <td align="center" width="20%">
+      <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5"/><br/>HTML5
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/><br/>CSS3
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/><br/>Bootstrap
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.icons8.com/color/48/tailwind_css.png" alt="Tailwind CSS"/><br/>Tailwind CSS
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/><br/>JavaScript
+    </td>
+  </tr>
+</table>
 
-#### 📚 Frameworks & Libraries  
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)  
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+<table width="100%" align="center">
+  <tr>
+    <td align="center" width="20%">
+      <img src="https://img.icons8.com/ios-filled/50/php.png" alt="PHP"/><br/>PHP
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.icons8.com/color/48/python.png" alt="Python"/><br/>Python
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.icons8.com/officel/48/react.png" alt="React"/><br/>React
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js"/><br/>Node.js
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.icons8.com/color/48/angularjs.png" alt="Angular"/><br/>Angular
+    </td>
+  </tr>
+</table>
 
-#### 🛢️ Databases  
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+<table width="100%" align="center">
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/><br/>MySQL
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB"/><br/>MongoDB
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase"/><br/>Firebase
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"/><br/>VS Code
+    </td>
+  </tr>
+</table>
 
-#### ☁️ DevOps / Cloud  
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=firebase&logoColor=black)
-
-#### 🧰 Tools & IDEs  
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)  
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)  
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)  
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans-ide&logoColor=white)
-
----
+<table width="100%" align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/color/48/android-studio--v3.png" alt="Android Studio"/><br/>Android Studio
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/color/48/pycharm.png" alt="PyCharm"/><br/>PyCharm
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/color/48/netbeans.png" alt="NetBeans"/><br/>NetBeans
+    </td>
+  </tr>
+</table>
 
 ### 📈 GitHub Stats
 <p align="center">
