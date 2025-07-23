@@ -83,9 +83,6 @@
             <td align="center" width="20%">
               <img src="https://img.icons8.com/color/48/pycharm.png" alt="PyCharm"/><br/>PyCharm
             </td>
-            <td align="center" width="20%">
-              <img src="https://img.icons8.com/color/48/netbeans.png" alt="NetBeans"/><br/>NetBeans
-            </td>
           </tr>
         </table>
       </td>
